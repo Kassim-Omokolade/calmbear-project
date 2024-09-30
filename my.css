@@ -1,0 +1,162 @@
+   
+  #first-sec{
+    background-color: hsla(191, 89%, 29%, 0.3);
+    /* width: Hug (1,440.62px)px;
+height: Hug (720.96px)px;
+ /* top: 108px;  */
+/* padding: 66px 121px 137px 121px; */
+gap: 179px;    */
+position: relative;
+}
+
+#first-top{
+    width: Fixed (508px)px;
+height: Hug (303px)px;
+gap: 28px;
+
+}
+
+
+
+
+.
+
+#reg-user{
+width: Hug (223px)px;
+height: Hug (130px)px;
+padding: 20px 22px 20px 22px;
+gap: 8px;
+
+}
+
+
+#thera{
+    width: Hug (248px)px;
+height: Hug (130px)px;
+padding: 20px 22px 20px 22px;
+gap: 8px;
+}
+
+
+
+#complete-ses{
+    width: Hug (259px)px;
+height: Hug (130px)px;
+padding: 20px 22px 20px 22px;
+gap: 8px;
+}
+
+
+#hour{
+    width: Hug (194px)px;
+height: Hug (130px)px;
+padding: 20px 22px 20px 22px;
+gap: 8px;
+}
+
+
+
+
+
+ 
+
+
+#btn-secone {
+     background-color: #F97F0F;
+    width: 248px;
+    height: 50px;
+    border-radius: 8px;
+    padding: 12px 36px 12px 36px;
+
+}
+
+#btn-sectwo{
+     border: 1px solid #F97F0F;
+    width: 248px;
+    height: 50px;
+    border-radius: 8px;
+    padding: 12px 36px 12px 36px;
+    color: #F97F0F;
+}
+#text-div{
+  width: Fill (508px)px;
+height: Hug (225px)px;
+
+
+}
+
+
+#button{
+  width: Fill (508px)px;
+height: Hug (50px)px;
+gap: 12px;
+
+
+
+
+}
+
+
+#img{
+    
+    width: 511.62px;
+height: 517.96px;
+ 
+
+border-radius: 100px 0px 100px 0px;
+
+}
+
+#img2{
+ width: 448px;
+height: 448px;
+}
+
+ 
+.sec-sec{
+    width: Fixed 1,440px;
+height: 3,072.09px;
+top: 1043px;
+gap: 76px;
+} 
+#second-sec #sec{
+    width: Hug (1,198px)px;
+height: Hug (545px)px;
+gap: 40px;
+}
+
+#img-sec2{
+    width: 652px;
+height: 545px;
+object-fit: contain;
+} 
+
+ 
+
+
+
+
+
+
+ 
+
+ .button{
+    width: 508px;
+    height: 50px;
+   gap: 12px;
+    
+}  
+
+
+
+#img{
+   
+
+top: 101px;
+ left: 844.66px;
+gap: 0px;
+border-radius: 100px 0px 100px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px; 
+
+} 
