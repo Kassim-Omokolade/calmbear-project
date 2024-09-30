@@ -170,7 +170,7 @@ nav {
 }
 
 #second-sec {
-  background-image: url(./Group\ 3.png);
+  background-image: url(./image/Group\ 3.png);
   background-repeat: no-repeat;
   height: 593px;
   top: 1032px;
@@ -433,7 +433,7 @@ li::marker {
 
 
 .secto-last {
-  background-image: url("./bg.png");
+  background-image: url(./image/bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
