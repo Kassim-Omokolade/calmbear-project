@@ -43,6 +43,7 @@ nav {
 
 #Download-btn {
   background-color: #f97f0f;
+  color: white;
   width: 207px;
   height: 50px;
   border-radius: 8px;
@@ -62,6 +63,7 @@ nav {
   display: flex;
   gap: 7px;
 }
+
 
 #hero-section #Download-btn {
   width: fill 248px;
@@ -209,6 +211,7 @@ nav {
   padding: 12px 36px 12px 36px;
   gap: 7px;
   border-radius: 8px;
+  color: white;
   background: hsla(29, 95%, 52%, 1);
 }
 
@@ -257,6 +260,7 @@ nav {
   gap: 7px;
   border-radius: 8px;
   border: none;
+  color: white;
   background-color: #f97f0f;
 }
 
@@ -266,6 +270,7 @@ nav {
   padding: 10px;
   gap: 7px;
   border-radius: 8px;
+  color: #f97f0f;
   border: 1px solid #f97f0f;
 }
 
@@ -312,6 +317,7 @@ li::marker {
   gap: 7px;
   border-radius: 8px;
   border: none;
+  color: white;
   background-color: #f97f0f;
 }
 
